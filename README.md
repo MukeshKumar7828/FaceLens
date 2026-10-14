@@ -181,22 +181,6 @@ It uses OpenCV's small facial-expression model (MobileFaceNet, trained on RAF-DB
 | Too many false detections | Raise `--threshold` (for example `0.85`), or use YuNet instead of Haar |
 | Faces missed | Lower `--threshold` (for example `0.5`) and check lighting |
 
-## Project page
-
-<details>
-<summary>Publish the <code>docs/</code> site with GitHub Pages</summary>
-
-The `docs/` folder is a single-page site that explains the tool: install, examples, options and the two detectors.
-
-1. Push the repository to GitHub, including the `docs/` folder.
-2. Open **Settings > Pages**.
-3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-4. Choose your main branch and the **/docs** folder, then save.
-5. After a minute the page is live at `https://<your-username>.github.io/<repo-name>/`.
-
-The page is plain HTML with no build step. To preview it locally, open `docs/index.html` in a browser.
-
-</details>
 
 ## Ideas for next steps
 
