@@ -1,6 +1,6 @@
 <div align="center">
 
-# facetool
+# FaceLens
 
 **Face detection for webcams, videos and images, with a desktop app, emotion labels and one-click privacy blur.**
 
