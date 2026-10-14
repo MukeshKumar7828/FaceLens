@@ -219,4 +219,13 @@ Emotion labels deserve extra care. Facial expression is not a reliable window in
 
 ## License
 
-Add a `LICENSE` file before publishing (MIT is a common choice for small tools like this). Check the licenses of any model files you redistribute.
+MIT License
+
+Copyright (c) 2026 Mukesh Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
